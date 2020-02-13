@@ -1,7 +1,6 @@
 ## Hello World
 
-Hailing from a tiny red dot.
-Still fresh and green in the penetration testing field.
+Hailing from a tiny red dot known as Singapore. Still fresh and green in the penetration testing field.
 
 ### Writeups
 
