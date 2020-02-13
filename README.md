@@ -1,27 +1,14 @@
-## hello world
+## Hello World
 
+Hailing from a tiny red dot.
 Still fresh and green in the penetration testing field.
 
-### Markdown
+### Writeups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Writeups are a work in progress.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Google](https://www.google.com).
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
